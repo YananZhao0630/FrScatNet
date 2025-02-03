@@ -8,7 +8,9 @@ Step2: open file:paper/FrScatNet
 In this paper, the results shown in Table III are calculated by
 
 FrScatNet (Fractional scattering convolution network) ---- PCA_classification_FRSCN.m
+
 SCN (Convolutional scattering convolution network) ---- PCA_classification_SCN.m
+
 TFSCN (Time-frequency scattering convolution network) --- PCA_classification_TFSCN.m
 
 
