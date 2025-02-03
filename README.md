@@ -4,7 +4,9 @@ The code is for paper ``Deep scattering network with fractional wavelet transfor
 To reproducibility, one need to do some steps as following:
 Step1: load addpath_scatnet.m
 Step2: open file:paper/FrScatNet
+
 In this paper, the results shown in Table III are calculated by
+
 FrScatNet (Fractional scattering convolution network) ---- PCA_classification_FRSCN.m
 SCN (Convolutional scattering convolution network) ---- PCA_classification_SCN.m
 TFSCN (Time-frequency scattering convolution network) --- PCA_classification_TFSCN.m
