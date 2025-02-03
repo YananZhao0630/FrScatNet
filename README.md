@@ -11,6 +11,8 @@ TFSCN (Time-frequency scattering convolution network) --- PCA_classification_TFS
 
 -----------------------------------------------------------------------------------
 If you are going to use this code, please cite our paper as follows:
+
+```bibtex
 @ARTICLE{9495232,
   author={Shi, Jun and Zhao, Yanan and Xiang, Wei and Monga, Vishal and Liu, Xiaoping and Tao, Ran},
   journal={IEEE Transactions on Signal Processing}, 
