@@ -1,5 +1,6 @@
 # FrScatNet
 The code is for paper ``Deep scattering network with fractional wavelet transform'' published on IEEE Transactions on Signal Processing. (DOI: https://doi.org/10.1109/TSP.2021.3098936)
+
 To reproducibility, one need to do some steps as following:
 Step1: load addpath_scatnet.m
 Step2: open file:paper/FrScatNet
